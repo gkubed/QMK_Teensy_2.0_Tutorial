@@ -65,3 +65,5 @@ Above is my configuration. Most likely, yours is different. These codes represen
 Feel free to spend some time getting to know this file for the other configuration it allows.
 
 ### Your own firmware
+
+Until I find the time to write this section in my own tongue, [this guide](https://github.com/etergo/JH-TMK-Tutorial/blob/master/TUTORIAL.md) should be beneficial to look at.
