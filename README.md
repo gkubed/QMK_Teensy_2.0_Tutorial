@@ -13,7 +13,7 @@ There are *several* different approaches to getting firmware onto your Teensy 2.
 ### On Windows
 1. [Teensyloader](https://www.pjrc.com/teensy/loader.html) - This is what we'll use to put the firmware onto your keyboard.
 2. [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - We'll set up an environment here using an Ubuntu disk image, where we'll be able to make our firmware without the headaches of trying to treat Windows like Linux.
-3. [Ubuntu 15.10](www.ubuntu.com/download/desktop) - which Linux distribution you use is relatively trivial. If you're familiar with other deb-package based environment, feel free to use one of your choice. Don't worry about installing this yet, just get the .ISO file.
+3. [Ubuntu 16.04 LTS ISO file](https://www.ubuntu.com/download/desktop) - which Linux distribution you use is relatively trivial. If you're familiar with other deb-package based environment, feel free to use one of your choice. Don't worry about installing this yet, just get the .ISO file.
 4. A text editor of your choice. That's it!
 
 ### On Mac
