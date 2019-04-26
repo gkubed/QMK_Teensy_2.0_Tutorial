@@ -32,7 +32,7 @@ This may look long and intimidating. Don't be scared - I just included every det
 - Give your virtual machine a name, like Cubert. Set your `type` to `Linux` and your `Version` to `Ubuntu (64-bit)` or `Ubuntu (32-bit)`, depending on which .ISO file you grabbed. If you gave it a sensible name like `Ubuntu`, it would set these values automatically. `Next`.
 - Allocate however much memory you feel is appropriate. Whatever the recommended value is is probably sufficient, but if you bought 32GB of RAM in 2013 like I did, make sure to crank it up to 8 so 16GB just to try to convince your dying ego that it was worth it. `Next`.
 - Close your eyes, press `Create Next Next`, jack up your file allocation size to 16GB (Ubuntu will want more than 8GB), and press `Next`.
-- With your new virtual machine selected, press the big `Start` button. You'll be prompted to select a startup disk. Press the ![Choose .ISO icon](images/chooseiso.png) icon next to the dropdown and browse to find the .ISO file you downloaded from the Ubuntu website, and press `Start`.
+- With your new virtual machine selected, press the big `Start` button. You'll be prompted to select a startup disk. Press the ![Choose .ISO icon](images/chooseiso.PNG) icon next to the dropdown and browse to find the .ISO file you downloaded from the Ubuntu website, and press `Start`.
 - Your virtual machine should start booting up. I'm going to speedrun the Ubuntu installation because it's well documented, and most options won't affect our process.
  - `Install Ubuntu`
  - `Continue`
